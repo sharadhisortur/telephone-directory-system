@@ -1,4 +1,3 @@
-# telephone-directory-system
 # ☎️ Telephone Directory Maintenance System
 
 A console-based **Telephone Directory Maintenance System** developed in Python to manage departments, employees, telephone numbers, and telephone enquiries using text files for persistent data storage.
